@@ -12,5 +12,5 @@ A few quick facts:
 - 📫 How to reach me: discord @katecheddar,
 - 🙊 I ran a marketing business for 10 years and was an English writing editor for 5 years,
 - 👀 I speak French competently, and Russian and Spanish very incompetently,
-- ⚡ Fun fact: I am an experienced cabinetmaker and I love building new things out of wood.
+- ⚡ Fun fact: I am an experienced cabinetmaker.
 
