@@ -1,8 +1,5 @@
 # About me
 
-
-**katechester/katechester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A few quick facts:
 
 - 🔭 I’m working on a database in MariaDB for my collection of tools, adhesives and their applications,
